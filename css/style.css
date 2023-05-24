@@ -109,7 +109,10 @@ header {
 	background-color: darkorange;
 }
 .welcome-box2 {
-	background-color: #130c0c;
+  background-color: #130c0c;
+}
+.welcome-box1 a, .welcome-box2 a {
+  font-family: 'xeicon';
 }
 
 /* ============ Section: manage =========== */
